@@ -16,7 +16,7 @@
     <li>Guage Chart</li></ol>
   </li>
   <li><b>Cards and Filters in Power BI</b></li>
-<!--<li><b>Slicers in Power BI
+<li><b>Slicers in Power BI
 <li>Advanced Charts in Power BI
 <li>Objects and Actions (Hyperlinks)
 <li>Power BI Service Introduction
@@ -25,5 +25,5 @@
 <li>Number Functions in Power Query (Power BI)
 <li>Appending Files and Tables in Power BI
 <li>Merging Files and Tables in Power BI
-  <li>Column from Examples and Conditional Column  in Power BI</b><--!>
+  <li>Column from Examples and Conditional Column  in Power BI</b>
  </ul>
